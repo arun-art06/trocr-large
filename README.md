@@ -101,3 +101,12 @@ interface.launch(server_name="0.0.0.0", server_port=8080)
 ```
 
 In summary, this code creates a web-based handwritten text recognition application where users can input text, draw handwritten text, or upload an image containing handwritten text. The application then uses the Microsoft TrOCR model to recognize and display the text from these inputs in real-time through a user-friendly interface. 
+
+## Handwritten to text from url
+![handwritten to text from url](images/url-image.PNG)
+
+## Handwritten to text from canvas drawing
+![handwritten to text from url](images/handwritten-canvas.PNG)
+
+## Handwritten to text from image upload
+![handwritten to text from url](images/uploaded-image.PNG)
